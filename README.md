@@ -9,3 +9,4 @@ Indubbiamente l'aspetto che spesso viene trascurato è quello visuale di una per
 
 Per questo motivo ho voluto creare questo sistema di luci, che anche se primitivo e autocostruito, crea qualcosa di unico che contraddistinguerà i nostri live.
 
+![TpmLight](http://tpm.gkript.org/img/TPM_Img.png)
